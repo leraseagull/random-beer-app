@@ -2,4 +2,4 @@
 
 Beer random generator
 
-See project: https://leraseagull.github.io/random-beer/
+See project: https://leraseagull.github.io/random-beer-app/
