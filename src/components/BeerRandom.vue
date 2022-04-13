@@ -62,6 +62,7 @@ export default {
 .beer__item-container {
   display: flex;
   justify-content: space-between;
+  font-size: 12px;
 }
 
 .beer__item-container_height {
@@ -72,7 +73,7 @@ export default {
 .beer__item {
   text-align: left;
   margin-bottom: 10px;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.5;
 }
 </style>
