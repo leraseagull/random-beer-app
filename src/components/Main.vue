@@ -113,7 +113,7 @@ export default {
   margin-top: 20px;
   padding: 1rem;
   border-radius: 10px;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .card__border {
