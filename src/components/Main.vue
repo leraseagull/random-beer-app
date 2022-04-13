@@ -9,8 +9,8 @@
           <div class="card__item-container card__item-container_height">
             <p style="text-align: left"><strong>Имя: </strong></p>
             <div class="card__name-container card__item-container_height" >
-              <p class="card__name card__item-container_height" style="margin-right: 5px">{{ item.first_name }}</p>
-              <p class="card__name card__item-container_height">{{ item.last_name }}</p>
+              <p class="card__name" style="margin-right: 5px">{{ item.first_name }}</p>
+              <p class="card__name">{{ item.last_name }}</p>
             </div>
           </div>
           <div class="card__item-container">
