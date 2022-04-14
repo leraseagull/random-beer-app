@@ -135,7 +135,7 @@ export default {
 
 .card__name-container {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .card__btn {
