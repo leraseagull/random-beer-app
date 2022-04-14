@@ -52,6 +52,7 @@ methods: {
 }
 
 .header__btn {
+  color: black;
   cursor: pointer;
   margin: auto 0 auto 0;
   width: 95px;
